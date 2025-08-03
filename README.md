@@ -5,7 +5,7 @@ Acronym:
 
 Readily
 Encyclopedic
-Medicinal
+Medical
 Entity
 Diagnoses
 You
